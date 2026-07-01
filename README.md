@@ -25,7 +25,8 @@ The website is fully responsive and provides a smooth user experience across des
 
 - HTML5
 - CSS3
-- Google Fonts 
+- Google Fonts
+- javascript(for enhancements)
 
  💻 How to Run
 
